@@ -1,0 +1,818 @@
+[
+    {
+        
+        "Section":"vegetables-section",
+        "name":"Fresh Tomatoes",
+        "image" : "https://images.pexels.com/photos/96616/pexels-photo-96616.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":55,
+            "10kg":110
+        }
+    ]
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"pumpkins",
+    "image":"https://images.pexels.com/photos/735539/pexels-photo-735539.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":30,
+            "10kg":70
+        }
+    ]
+
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"Brinjals",
+    "image":"https://media.istockphoto.com/id/1309479975/photo/ripe-eggplants-growing-in-the-vegetable-garden.jpg?b=1&s=612x612&w=0&k=20&c=RcDtF415ZNIdYG5tu-JgOeX5-miqUWxBWl0YCM_OKDY=",
+    "qty":[
+        {
+            "5kg":45,
+            "10kg":30
+        }
+    ]
+
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"onions",
+    "image":"https://images.pexels.com/photos/175415/pexels-photo-175415.jpeg?auto=compress&cs=tinysrgb&w=600" ,
+    "qty":[
+        {
+            "5kg":34,
+            "10kg":80
+        }
+    ]
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"lady-fingers",
+    "image":"https://images.unsplash.com/photo-1664289242854-e99d345cfa92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFkeWZpbmdlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":56,
+            "10kg":90
+        }
+    ]
+
+   },{
+    
+    "Section":"vegetables-section",
+    "name":"Potatoes",
+    "image":"https://images.pexels.com/photos/144248/potatoes-vegetables-erdfrucht-bio-144248.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":34,
+            "10kg":80
+        }
+    ]
+   },
+   {
+    
+    "Section":"vegetables-section",
+    "name":"Ginger",
+    "image":"https://images.pexels.com/photos/1337585/pexels-photo-1337585.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":60,
+            "10kg":119
+        }
+    ]
+   },
+   
+   {    
+    "Section":"vegetables-section",
+    "name":"Sweet potatoes",
+    "image":"https://images.unsplash.com/photo-1570723735746-c9bd51bd7c40?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c3dlZXQlMjBwb3RhdG98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":45,
+            "10kg":100
+        }
+    ]
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"carrots",
+    "image":"https://images.unsplash.com/photo-1447175008436-054170c2e979?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2Fycm90c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":70,
+            "10kg":130
+        }
+    ]
+   },
+   {    
+    "Section":"vegetables-section",
+    "name":"lemons",
+    "image":"https://images.unsplash.com/photo-1432457990754-c8b5f21448de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGVtb25zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":60,
+            "10kg":110
+        }
+    ]
+
+   },    
+   {
+    "Section":"vegetables-section",
+    "name":"Raddish",
+    "image":"https://images.unsplash.com/photo-1668080319913-a9d378495096?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmFkZGlzaHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":70,
+            "10kg":130
+        }
+    ]
+
+   },    
+    {
+    "Section":"vegetables-section",
+    "name":"Turnips",
+    "image":"https://media.istockphoto.com/id/173012034/photo/turnips.jpg?b=1&s=170667a&w=0&k=20&c=E0brLkUWHwxfk6Iu1GugnHMU28CYj6rtCUew2DF7Ris=",
+    "qty":[
+        {
+            "5kg":30,
+            "10kg":80
+        }
+    ]
+
+   },    
+   {
+    "Section":"vegetables-section",
+    "name":"Red capsicums",
+    "image":"https://images.unsplash.com/photo-1632992468737-54880593aada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJlZCUyMGNhcHNpY3Vtc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":200,
+            "10kg":390
+        }
+    ]
+   },    
+   {
+    "Section":"vegetables-section",
+    "name":"Yellow capsicums",
+    "image":"https://images.unsplash.com/photo-1632992468737-54880593aada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJlZCUyMGNhcHNpY3Vtc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":200,
+            "10kg":390
+        }
+    ]
+   }
+   ,{    
+    "Section":"vegetables-section",
+    "name":"Green capsicums",
+    "image":"https://images.unsplash.com/photo-1632992468737-54880593aada?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHJlZCUyMGNhcHNpY3Vtc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":70,
+            "10kg":120
+        }
+    ]
+   },    
+    {
+    "Section":"vegetables-section",
+    "name":"bitter Gourd",
+    "image":"https://images.unsplash.com/photo-1588391453522-a8b470845269?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Yml0dGVyJTIwZ291cmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "qty":[
+        {
+            "5kg":40,
+            "10kg":70
+        }
+    ]
+
+   },       
+   {   
+    "Section":"vegetables-section",
+    "name":"Cauliflower",
+    "image":"https://images.pexels.com/photos/4963755/pexels-photo-4963755.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":30,
+            "10kg":70
+        }
+    ]
+
+   },{
+    
+    "Section":"vegetables-section",
+    "name":"Round Gourd",
+    "image":"https://images.pexels.com/photos/12861449/pexels-photo-12861449.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":80,
+            "10kg":90
+        }
+    ]
+},{    
+    "Section":"vegetables-section",
+    "name":"Spinach",
+    "image":"https://images.pexels.com/photos/8845078/pexels-photo-8845078.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":25,
+            "10kg":500
+        }
+    ]
+},{    
+    "Section":"vegetables-section",
+    "name":" Mint",
+    "image":"https://media.istockphoto.com/id/1131562141/photo/fresh-leaf-mint-green-herbs-ingredient.jpg?b=1&s=612x612&w=0&k=20&c=1GUjSlo4Io3MQZs_ZWgsr73wbd89StMUmdkA1QW6rxc=",
+    "qty":[
+        {
+            "5kg":100,
+            "10kg":200
+        }
+    ]
+},{    
+    "Section":"vegetables-section",
+    "name":" Kale",
+    "image":"https://images.pexels.com/photos/5589002/pexels-photo-5589002.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":180,
+            "10kg":300
+        }
+    ]
+
+},{    
+    "Section":"vegetables-section",
+    "name":" Green Cabbage",
+    "image":"https://images.pexels.com/photos/209482/pexels-photo-209482.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":70,
+            "10kg":130
+        }
+    ]
+
+
+},{    
+    "Section":"vegetables-section",
+    "name":" Purple Cabbage",
+    "image":"https://media.istockphoto.com/id/1062567868/photo/red-cabbage-for-sale.jpg?b=1&s=612x612&w=0&k=20&c=Qi5IEXhwt3h906NmcLiAbg48zcwpZgrMJtlUwoP94To=",
+    "qty":[
+        {
+            "5kg":150,
+            "10kg":300
+        }
+    ]
+
+
+},{    
+    "Section":"vegetables-section",
+    "name":" Red chillies",
+    "image":"https://images.pexels.com/photos/39390/chili-pepper-red-spicy-drying-39390.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":60,
+            "10kg":112
+        }
+    ]
+
+
+},{    
+    "Section":"vegetables-section",
+    "name":" Green chillies",
+    "image":"https://images.pexels.com/photos/5501466/pexels-photo-5501466.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":50,
+            "10kg":100
+        }
+    ]
+
+},{
+    "Section":"Flowers-section",
+    "name":"jasmine",
+    "Image":"https://images.pexels.com/photos/7683632/pexels-photo-7683632.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":35,
+            "10kg":50
+        }
+    ]
+
+},{
+    "Section":"Flowers-section",
+    "name":"Zinnia",
+    "image":"https://images.pexels.com/photos/6249247/pexels-photo-6249247.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":35,
+            "10kg":50
+        }
+    ]
+
+},{
+    "Section":"Flowers-section",
+    "name":"Lotus",
+    "image":"https://images.pexels.com/photos/424134/pexels-photo-424134.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "5kg":400,
+            "10kg":760
+        }
+    ]
+
+},{
+    
+        "Section":"Flowers-section",
+        "name":"Lavenders",
+        "image":"https://images.pexels.com/photos/458894/pexels-photo-458894.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":150,
+                "10kg":300
+           
+            }
+        ]
+
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Tulips",
+        "image":"https://images.pexels.com/photos/542401/pexels-photo-542401.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":100,
+                "10kg":200
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Hibiscus",
+        "image":"https://images.pexels.com/photos/922764/pexels-photo-922764.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":70,
+                "10kg":140
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"lilly",
+        "image":"https://images.pexels.com/photos/56905/pexels-photo-56905.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":60,
+                "10kg":140
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Marigolds",
+        "image":"https://images.pexels.com/photos/1031628/pexels-photo-1031628.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":40,
+                "10kg":100
+           
+            }
+        ]
+
+
+    },{
+
+        "Section":"Flowers-section",
+        "name":"Daisy",
+        "image":"https://images.pexels.com/photos/67857/daisy-flower-spring-marguerite-67857.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":50,
+                "10kg":100
+           
+            }
+        ]
+    },{
+        
+        "Section":"Flowers-section",
+        "name":"Sunflowers",
+        "image":"https://images.pexels.com/photos/1169084/pexels-photo-1169084.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":300,
+                "10kg":500
+           
+            }
+        ]
+    },{
+        "Section":"Flowers-section",
+        "name":"Red Roses",
+        "image":"https://images.pexels.com/photos/4825/red-love-romantic-flowers.jpg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":70,
+                "10kg":140
+           
+            }
+        ]
+    },{
+
+        "Section":"Flowers-section",
+        "name":"White Roses",
+        "image":"https://images.pexels.com/photos/2306261/pexels-photo-2306261.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":240,
+                "10kg":400
+           
+            }
+        ]
+    },{
+        
+        "Section":"Flowers-section",
+        "name":"Petunia",
+        "image":"https://images.pexels.com/photos/4841305/pexels-photo-4841305.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":140,
+                "10kg":300
+           
+            }
+        ]
+    },{
+        "Section":"Flowers-section",
+        "name":"orchids",
+        "image":"https://images.pexels.com/photos/1211456/pexels-photo-1211456.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":400,
+                "10kg":700
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Dahlia",
+        "image":"https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":250,
+                "10kg":500
+           
+            }
+        ]
+
+    },
+    {
+        
+        "Section":"Flowers-section",
+        "name":"Red Pansy",
+        "image":"https://images.pexels.com/photos/16673175/pexels-photo-16673175.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":120,
+                "10kg":250
+           
+            }
+        ]
+    },{
+        "Section":"Flowers-section",
+        "name":"yellow pansy ",
+        "image":"https://images.pexels.com/photos/15445737/pexels-photo-15445737.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[ 
+            {
+                "5kg":150,
+                "10kg":300
+           
+            }
+        ]
+
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Voilet-pansy",
+        "image":"https://images.pexels.com/photos/668940/pexels-photo-668940.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":170,
+                "10kg":350
+           
+            }
+        ]
+    },
+    {
+        "Section":"Flowers-section",
+        "name":"Voilet-pansy",
+        "image":"https://images.pexels.com/photos/12002491/pexels-photo-12002491.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":270,
+                "10kg":500
+           
+            }
+        ]
+       
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Chrysanthemums",
+        "image":"https://images.pexels.com/photos/4014558/pexels-photo-4014558.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":550,
+                "10kg":1000
+           
+            }
+        ]
+    },{
+        "Section":"Flowers-section",
+        "name":"Chamomile",
+        "image":"https://images.pexels.com/photos/159110/bertram-root-medicinal-herbs-flowers-bloom-159110.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":80,
+                "10kg":160
+           
+            }
+        ]
+    },{
+            "Section":"Flowers-section",
+            "name":"Violet",
+            "image":"https://images.pexels.com/photos/129044/pexels-photo-129044.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "qty":[
+                {
+                    "5kg":200,
+                    "10kg":370
+               
+                }
+            ]
+    },{
+        "Section":"Flowers-section",
+            "name":"Peace-lilly",
+            "image":"https://images.pexels.com/photos/6619746/pexels-photo-6619746.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "qty":[
+                {
+                    "5kg":350,
+                    "10kg":720
+               
+                }
+            ]
+    },{
+        "Section":"Flowers-section",
+        "name":"Cosmos",
+        "image":"https://images.pexels.com/photos/51942/cosmos-flower-cosmos-flower-bloom-51942.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":300,
+                "10kg":600
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Sweet Alyssum",
+        "image":"https://images.pexels.com/photos/13919060/pexels-photo-13919060.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":300,
+                "10kg":500
+           
+            }
+        ]
+
+    },{
+        "Section":"Flowers-section",
+        "name":"Snowdrops",
+        "image":"https://images.pexels.com/photos/33490/snowdrop-flowers-spring-flower-plant.jpg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "5kg":200,
+                "10kg":450
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Apples",
+        "image":"https://images.pexels.com/photos/574919/pexels-photo-574919.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":700,
+                "kg 10":1400
+           
+            }
+        ]
+    },{
+        
+            "Section":"Fruits-section",
+            "name":"Black Grapes",
+            "image":"https://images.pexels.com/photos/1903337/pexels-photo-1903337.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "qty":[
+                {
+                    "kg 5":450,
+                    "kg 10":900
+               
+                }
+            ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Green  coloured Grapes",
+        "image":"https://images.pexels.com/photos/8963984/pexels-photo-8963984.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":350,
+                "kg 10":500
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Strawberries ",
+        "image":"https://images.pexels.com/photos/70746/strawberries-red-fruit-royalty-free-70746.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":450,
+                "kg 10":890
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Oranges",
+        "image":"https://images.pexels.com/photos/2294477/pexels-photo-2294477.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":300,
+                "kg 10":700
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Bananas",
+        "image":"https://images.pexels.com/photos/61127/pexels-photo-61127.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":450,
+                "kg 10":600
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Papayas",
+        "image":"https://images.pexels.com/photos/5507740/pexels-photo-5507740.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":250,
+                "kg 10":500
+            }
+        ]
+    },{ "Section":"Fruits-section",
+    "name":"Cherries",
+    "image":"https://images.pexels.com/photos/966416/pexels-photo-966416.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "qty":[
+        {
+            "kg 5":250,
+            "kg 10":500
+        }
+    ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Raspberries",
+        "image":"https://images.pexels.com/photos/701775/pexels-photo-701775.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":250,
+                "kg 10":500
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Blueberries",
+        "image":"https://images.pexels.com/photos/70862/pexels-photo-70862.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":250,
+                "kg 10":500
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Mangoes",
+        "image":"https://images.pexels.com/photos/7303400/pexels-photo-7303400.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":250,
+                "kg 10":500
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Avocadoes",
+        "image":"https://images.pexels.com/photos/15358547/pexels-photo-15358547.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":800,
+                "kg 10":1600
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Pine-Apples",
+        "image":"https://images.pexels.com/photos/2469772/pexels-photo-2469772.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":450,
+                "kg 10":900
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"coconuts",
+        "image":"https://images.pexels.com/photos/3986709/pexels-photo-3986709.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":350,
+                "kg 10":700
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"kiwi",
+        "image":"https://images.pexels.com/photos/54370/pexels-photo-54370.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":230,
+                "kg 10":420
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Plums",
+        "image":"https://images.pexels.com/photos/15437419/pexels-photo-15437419.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":270,
+                "kg 10":400
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Melons",
+        "image":"https://images.pexels.com/photos/2714323/pexels-photo-2714323.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":300,
+                "kg 10":500
+           
+            }
+        ]
+    },{
+        "Section":"Fruits-section",
+        "name":"Watermelons",
+        "image":"https://images.pexels.com/photos/2288692/pexels-photo-2288692.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":400,
+                "kg 10":800
+           
+            }
+        ]
+
+    },{
+        "Section":"Fruits-section",
+        "name":"Jackfruits",
+
+        "image":"https://images.pexels.com/photos/11669555/pexels-photo-11669555.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":560,
+                "kg 10":1120
+           
+            }
+        ]
+
+    },{
+
+        "Section":"Fruits-section",
+        "name":"Dragonfruits",
+        "image":"https://images.pexels.com/photos/11450660/pexels-photo-11450660.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "qty":[
+            {
+                "kg 5":550,
+                "kg 10":1000
+           
+            }
+        ]
+    }    
+]

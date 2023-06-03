@@ -1,0 +1,212 @@
+.veggieheading{
+  background-color:rgb(29, 91, 7);
+  font-weight:bolder;
+  color:white;
+  font-family:"rampart";
+  margin-bottom:0px;
+  font-size:2.3rem;
+}
+.cards{
+    width:25rem;
+    height:26rem;
+    margin:30px;
+    padding:12px 11px;
+    margin-left:0px;
+    background-color:rgb(28, 27, 27);
+    color:rgb(244, 234, 234);
+    border:2px solid white;
+  }
+  .containers{
+    display:flex;
+    flex-direction:row;
+    /* margin-right:10px; */
+    padding:12px 11px;
+    margin-bottom:0px;
+    background-color:rgb(8, 9, 8);
+    border:2px solid white;
+  }
+  .containers2{
+    display:flex;
+    flex-direction:row;
+    /* margin-right:10px; */
+    padding:12px 11px;
+    margin-top:-12px;
+    background-color: rgb(8, 9, 8);
+    border:2px solid white;
+    margin-bottom:0px;
+  }
+  .img-size{
+    width:14rem;
+    height:6rem;
+  }
+.container3{
+    display:flex;
+    flex-direction:row;
+    /* margin-right:10px; */
+    padding:12px 11px;
+    margin-top:-3px;
+    background-color: rgb(8, 9, 8);
+    border:2px solid white;
+    margin-bottom:-33px;
+}
+.container4 {
+    display:flex;
+    flex-direction:row;
+    /* margin-right:10px; */
+    padding:12px 11px;
+    margin-top:3px;
+    background-color: rgb(8, 9, 8);
+    border:2px solid white;
+    margin-bottom:-30px;
+}
+.flower{
+    background-color:rgb(225, 118, 118);
+    color:rgb(10, 10, 10);
+    border-radius:20px;
+    font-size:1.5rem;
+    font-weight:bolder;
+    margin-left:-143px;
+    text-decoration: none;
+}
+.flower:hover{
+    background-color:rgb(230, 117, 117);
+    color:rgb(1, 1, 1);
+    border-radius:22px;
+    font-size:1.7rem;
+    font-weight:bolder;
+    margin-left:-143px;
+    text-decoration: none;
+}
+.fruits{
+    background-color:rgb(255, 209, 130);
+    color:rgb(10, 10, 10);
+    border-radius:20px;
+    font-size:1.5rem;
+    font-weight:bolder;
+    margin-left:-143px;
+    text-decoration: none;
+}
+.fruits:hover{
+    background-color:rgb(246, 168, 24);
+    color:rgb(22, 20, 20);
+    font-size:1.7rem;
+    border-radius:22px;
+}
+.container-flowers{
+    display:flex;
+    flex-direction:row;
+    margin-right:10px;
+    padding:12px 11px;
+    margin-top:-6px;
+    background-color:black;
+}
+#flower-link-id{
+  color:rgb(255, 255, 255);
+  margin-right:40px;
+  padding:0px 12px;
+  margin-left:-101px;
+  cursor:pointer;
+  font-size:1rem;
+}
+#veg-link-id{
+  color:rgb(18, 19, 18);
+  margin-right:40px;
+  padding:0px 12px;
+  margin-left:-101px;
+  cursor:pointer;
+}
+#fruit-link-id{
+  color:rgb(21, 20, 20);
+  margin-right:34px;
+  padding:0px 7px;
+ 
+  margin-left:-101px;
+  cursor:pointer;
+}
+#vegclickbtn{
+  margin-top:-20px;
+  width:300px;
+  height:30%;
+  cursor:pointer;
+
+}
+#vegclickbtn:hover{
+  border:2px solid rgb(238, 216, 219);
+  background-color:rgb(146, 242, 146);
+  color:black;
+  font-size:1rem;
+  font-weight:bolder;
+}
+#fruitsclickbtn{
+  margin-top:-16px;
+  width:300px;
+}
+#fruitsclickbtn:hover{
+  border:2px solid rgb(224, 208, 252);
+  background-color:rgb(238, 142, 52);
+  color:black;
+  font-size:1rem;
+  font-weight:bolder;
+}
+#flowerclickbtn{
+  margin-top:10px;
+  width:300px;
+}
+#flowerclickbtn:hover{
+  border:2px solid rgb(229, 218, 250);
+  background-color:rgb(240, 116, 202);
+  color:black;
+  font-size:1rem;
+  font-weight:bolder;
+}
+#para-info-class-id{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:18%;
+  color:black;
+  font-weight:bold;
+  font-size:3rem;
+  /* background:url(" ")no-repeat center center/cover; */
+}
+
+.cardshome:hover{
+  height:29rem;
+  width:26rem;
+}
+
+#alerty{
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  letter-spacing:7px;
+  font-size:1.2rem;
+  font-weight:bolder;
+  font-family:monospace;
+ margin-bottom:5px;
+ animation:alerty 4.6s linear ;
+ animation-iteration-count: infinite;
+}
+@keyframes alerty{
+  0%{
+    letter-spacing:7px;
+    
+  }
+  25%{
+    letter-spacing: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom:-15px;
+    color:rgb(255, 199, 199);
+    background-color:rgb(34, 29, 24)
+  }
+  50%,80%{
+    /* transform: translateX(30deg); */
+    color:rgb(61, 26, 26);
+    letter-spacing: 12px;
+  }
+  100%{
+    color:purple;
+    margin-bottom:4px;
+  }
+
+}

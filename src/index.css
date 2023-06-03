@@ -1,0 +1,596 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+#logo{
+  height:50px;
+  width:60px;
+  border-radius:15px;
+  color:white;
+}
+.navbar-nav{
+  display:flex;
+  margin-left:130px;
+}
+.nav-link{
+  font-size:1.4rem;
+  font-weight:bolder;
+  padding:6px;
+  margin-left:10px;
+  color:white;
+}
+.nav-link:hover{
+  color:rgb(147, 147, 238);
+  /* border:2px solid white; */
+  border-radius:34px;
+  background-color:white;
+}
+.navbar-nav:before{
+  opacity:2;
+  z-index:-1;
+  content:"";
+}
+
+
+.navbar{
+  background:url("https://images.unsplash.com/photo-1513151233558-d860c5398176?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8Y29sb3JzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60 ")no-repeat center center/cover;
+  padding-bottom:10px;
+}
+#form-1{
+  margin-top:30px;
+}
+
+/*............................home class...............................home -class ........................home-class...................................*/
+.home-class{
+  text-align:center;
+  margin-top:12px;
+  font-weight: bold;
+  background:url("https://media.istockphoto.com/id/1274530764/photo/jungle-hd-wallpaper.jpg?s=612x612&w=0&k=20&c=98GtKlLaW1G3YvF5lihn3Z5I17yPJpF9c2IITW1gO0s=")no-repeat center center/cover;
+  color:white;
+  padding:70px 0px;
+  margin-top:1px;
+}
+
+
+
+#hometop-h1{
+  font-family:"Rampart+One";
+  margin-left:80%;
+}
+#hometop-h3{
+  margin-top:8px;
+  font-family:"Indie+Flower";
+}
+/* images */
+#home-img1{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin-top:23px;
+  background-color:rgb(163, 236, 142);
+   
+}
+#intro-div{
+  margin-top:15px;
+  text-align:center;
+  margin-top:0px;
+  /* background:url("https://images.unsplash.com/photo-1517646331032-9e8563c520a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8d2hpdGUlMjBiYWNrJTIwcGxhbnR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60") */
+}
+
+#intro-div h1{
+  color:rgb(30, 6, 6);
+  font-weight: bolder;
+  font-size:3.4rem;
+  margin-top:12px;
+}
+
+#intro-para{
+  color:rgb(27, 6, 6);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:bolder;
+  font-size:2.3rem;
+  padding:20px 20px;
+}
+#intro-h1 h1{
+  margin:12px 6px;
+  padding:2px;
+  color:hotpink;
+  font-family:fantasy;
+}
+
+/* .card-body {
+  margin-top:20px;
+} */
+
+#card-section{
+  margin-top:20px;
+  padding-bottom:23px;
+}
+#card-container{
+ /* background:url("https://images.unsplash.com/photo-1581257107100-f952b3a5c451?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNvbG91cmZ1bHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60 ")no-repeat center center/cover; */
+  margin-top:0px;
+  height:600px;
+  padding-top:34px;
+  background-color: rgb(16, 16, 16);
+}
+#card1-h5{
+  font-size:1rem;
+  font-weight:bolder;
+  font-family:Arial, Helvetica, sans-serif;
+  margin-top:0px;
+}
+#card2-h5{
+  /* color:rgb(195, 85, 54); */
+  font-size:1rem;
+  font-weight:bolder;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#card3-h5{
+  /* color:rgb(254, 135, 51); */
+  font-size:1rem;
+  font-weight:bolder;
+  font-family:Arial, Helvetica, sans-serif;
+}
+#card-color-id1{
+  background-color: rgb(13, 144, 13);
+}
+#card-color-id3{
+  background-color: rgb(231, 207, 48);
+}
+
+#card2-image{
+  background-color: rgb(223, 91, 43);
+}
+#card2-image img{
+  height:288px;
+}
+#mid-para{
+  background-color:rgb(255, 255, 158);
+}
+#mid-para-p2{
+  color:rgb(206, 170, 174);
+  font-family:Rampart+One;
+  font-weight:bolder;
+  margin-top:23px;
+
+}
+#mid-para-img1{
+  height:350px;
+  border-radius:45%;
+}
+#mid-para-img2{
+  height:270px;
+  border-radius:45%;
+  margin-top:150px;
+}
+#mid-para-img3{
+  height:270px;
+  border-radius:45%;
+
+}
+.col ul li{
+  list-style:none;
+}
+
+.card{
+  height:511px;
+}
+
+
+#service{
+  text-align:center;
+   background-color:rgb(250, 250, 121);
+   font-size:2.4rem;
+   font-weight:bolder;
+
+   
+
+}
+#footer{
+  background-color:black;
+  color:white;
+  font-family:Rampart+One;
+  font-size:1rem;
+  text-align:center;
+  height:70px;
+
+}
+
+#image1{
+  margin-left:40%;
+  height:500px;
+}
+#p1-veg{
+  color:rgb(255, 255, 255);
+  font-size:1.3rem;
+}
+
+#p3-fruits{
+  color:rgb(255, 255, 255);
+  font-size:1.3rem;
+}
+.outer{
+
+    background:url("https://images.unsplash.com/photo-1507046393468-05089f3c03e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTF8fGJsYWNrJTIwYW5kJTIwd2hpdGUlMjBsYXVnaGluZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+    height:560px;
+    margin-top:12px;
+}
+
+.outer::before{
+  opacity:4.5;
+  z-index:-1;
+  position:relative;
+}
+ 
+#lasthomedivid{
+  text-align:center;
+}
+#lasthomepara{
+  text-align:center;
+  color:rgb(23, 22, 22);
+  font-size:1.7rem;
+  font-weight:bolder;
+  margin-top:65px;
+
+}
+
+
+/* about.js......................................................... */
+.about-start{
+  background:url(" https://images.unsplash.com/photo-1515023115689-589c33041d3c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8a25vdyUyMGZhY2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60")no-repeat center;
+   height:400px;
+   margin:0px 9px;
+   margin-bottom:23px;
+}
+#about-h1{
+  text-align:center;
+  font-size:2.6rem;
+  color:rgba(185, 50, 75, 0.881);
+  /* background-color: rgb(13, 19, 190); */
+  margin-bottom:0px;
+  margin-top:3px;
+  height:75px;
+  background-color:rgb(224, 214, 123)
+  /* background:url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2ltcGxlJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover; */
+  
+
+
+}
+#about-h3{
+  text-align:center;
+  font-size:2.3rem;
+  color:black;
+  font-weight:bolder;
+}
+#about-para1{
+  background:url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2ltcGxlJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+  text-align:center;
+  
+}
+
+#about-clearfix-img{
+  border-radius:50%;
+  height:290px;
+  width:310px;
+}
+#about-para2{
+  text-align:center;
+  background:url(" https://images.unsplash.com/photo-1487147264018-f937fba0c817?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHNpbXBsZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+  /* margin-top:px; */
+
+}
+#about-clearfix-img2{
+  height:300px;
+  width:400px;
+  border-radius:30px;
+}
+#about-clearfix-img3{
+  height:300px;
+  width:400px;
+  border-radius:30px;
+  margin-left:45px;
+}
+#about-para3{
+  text-align:center;
+  margin:20px 0px;
+  background:url("https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8c2ltcGxlJTIwd2FsbHBhcGVyfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+}
+#about-para3 ul li{
+  color:rgb(107, 23, 23);
+  font-weight:bolder;
+  list-style: none;
+  margin: 29px 0px;
+  
+}
+#about-para3 ul li h4{
+  color:black;
+
+}
+
+#about-div2{
+  text-align:center;
+  color:rgb(93, 13, 13);
+  font-size:2.4rem;
+  background:url(" https://images.unsplash.com/photo-1548504778-b14db6c34b04?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjF8fHBpbmt8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60")no-repeat center center/cover;
+}
+#aboutcar1{
+  height:350px;
+  width:350px;
+  margin:10px 40px;
+  
+}
+#aboutcar2{
+
+  height:350px;
+  width:600px;
+  margin:10px 40px;
+}
+#aboutcar3{
+  height:350px;
+  width:420px;
+}
+#about-div4{
+  text-align:center;
+  color:rgb(91, 28, 28)
+}
+#aboutpara4-h1{
+  font-size:3.5rem;
+  color:black;
+  font-weight:bold;
+
+}
+#about-para4{
+  background-color:rgb(247, 235, 98);
+  height:942px;
+}
+.info-h1{
+  background-color:rgb(240, 160, 240);
+  color:white;
+  font-size:2rem;
+  font-weight:bolder;
+
+}
+.button-div{
+  padding:12px;
+  margin-top:10px;
+}
+#aboutpara4-h3{
+  font-size:2.3rem;
+  color:rgb(71, 19, 19);
+  font-weight:bolder;
+}
+#aboutpara4-h2{
+  font-size:2.3rem;
+  color:rgb(167, 52, 52)
+}
+#about-para4 ul li{
+  list-style: none;
+}
+#aboutpara4-2{
+  font-weight:bolder;
+  font-size:1.8rem;
+  color:rgb(94, 39, 39);
+}
+
+
+
+/* contact............................................................................................. */
+
+#contact-h2{
+  text-align:center;
+  color:rgb(69, 69, 255);
+  font-size:4rem;
+  font-weight:bold;
+  background-color:rgb(255, 255, 171);
+
+}
+#contact-h1{
+  text-align:center;
+  color:rgb(23, 41, 7);
+  font-size:3.4rem;
+  background-color:rgb(255,255,171);
+  font-weight:bolder;
+  margin-bottom:0px;
+  
+}
+#contact-div2{
+  text-align:center;
+  font-size:2.5rem;
+  font-weight:bolder;
+  color:orange;
+  background-color:beige;
+  margin-top:0px;
+
+}
+#More-id{
+  background:url(" https://media.istockphoto.com/id/523172398/photo/new-window.jpg?b=1&s=170667a&w=0&k=20&c=iFLpJUCgMcVswsa2Tx62WdmMCcMPAe-OG4n8tud53rg=")no-repeat center center/cover;
+   height:300px;
+}
+
+#More-divstart{
+  padding:55px 0px;
+}
+
+#More-start-h1{
+  text-align: center;
+  font-weight:bolder;
+  font-size:4rem;
+  color:rgb(249, 242, 242);
+
+}
+#morediv-id{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background-color: rgb(216, 236, 253);
+  margin-top:0px;
+}
+#moreh1-id{
+  display:block;
+  color:rgb(96, 12, 12);
+  background-color: rgb(221, 169, 85);
+  font-size:2.4rem;
+  font-weight:bolder;
+  text-align:center;
+  margin-bottom:0px;
+}
+#morediv2-id{
+  background-color:rgb(255, 216, 241);
+  text-align:center;
+  color:rgb(67, 44, 13)
+
+}
+.morephotoclass{
+  
+  height:300px;
+  width:300px;
+  border-radius:40px;
+  margin-left:30px;
+  margin-bottom:40px;
+}
+#photos{
+
+text-align: center;
+margin-bottom:20px;
+}
+#photosdiv{
+  background:url(" https://cdn.pixabay.com/photo/2020/01/15/20/37/sea-4768869__340.jpg  ")no-repeat center center/cover;
+}
+
+#moreh1-id2{
+  color:rgb(154, 97, 64);
+  background-color: rgb(244, 227, 205);
+  font-weight:bolder;
+  font-weight:3rem;
+}
+
+#more-end{
+  background-color:rgb(243, 207, 116);
+  font-weight:bolder;
+  font-size:1.5rem;
+  color:rgb(84, 10, 10);
+  margin-bottom:0px;
+  
+ 
+}
+
+#moreend-para{
+  color:rgb(16, 13, 17);
+  margin-bottom:0px;
+ 
+}
+
+#moreendpara-h3{
+  color:rgb(2, 12, 3);
+  font-weight:bolder;
+  font-size:2.3rem;
+  margin-bottom:0px;
+}
+/* 
+.cards{
+  width:25rem;
+  height:26rem;
+  margin:30px;
+  padding:12px 11px;
+  margin-left:0px;
+  background-color:rgb(28, 27, 27);
+  color:rgb(244, 234, 234);
+
+}
+.containers{
+  display:flex;
+  flex-direction:row;
+  margin-right:10px;
+  padding:12px 11px;
+}
+.containers2{
+  display:flex;
+  flex-direction:row;
+  margin-right:10px;
+  padding:12px 11px;
+  margin-top:30px;
+}
+
+.img-size{
+  width:14rem;
+  height:6rem;
+} */
+.flex-container{
+  display:flex;
+}
+#registration-formid{
+  background-color: rgb(110, 108, 104);
+}
+#formid{
+  background-color: rgb(117, 133, 117);
+  border-radius:13px;
+  margin-top:30px;
+
+}
+.form-label{
+   font-weight:bolder;
+   font-size:1.3rem;
+}
+.formstart{
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+.fillupdiv{
+  color:rgb(164, 164, 230);
+  font-size:1.3rem;
+  font-weight:bolder;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.loginform {
+  border:2px solid black;
+  color:rgb(34, 34, 30);
+  border-radius:15px;
+  font-size:1.3rem;
+  font-weight:bolder;
+  background-color:rgb(116, 245, 170)
+
+}
+#farmerloginformh1{
+  font-size:1.7rem;
+  font-weight:bolder;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  color:rgb(103, 247, 67);
+  margin-top:13px;
+}
+#learnerloginformid{
+  font-size:1.7rem;
+  font-weight:bolder;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  color:rgb(73, 119, 62);
+  margin-top:13px;
+
+}
+.cardnote{
+  height:200px;
+  width:800px;
+  background-color:rgb(241, 241, 135);
+  margin-top:30px;
+
+}
+.cardtop{
+  height:200px;
+  width:800px;
+  margin-top: 13px;
+
+}
+i{
+  cursor:pointer;
+}
